@@ -1,0 +1,6 @@
+{
+  "name": "Project Management Utility",
+  "description": "A full-stack Agile project board tracking task status and complete SDLC state transition history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
